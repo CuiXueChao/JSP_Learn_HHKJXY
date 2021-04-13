@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="JSP_Learn_HHKJXY:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JSP_Learn_HHKJXY_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JSP_Learn_HHKJXY/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JSP_Learn_HHKJXY" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql:mysql-connector-java:5.1.1" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
